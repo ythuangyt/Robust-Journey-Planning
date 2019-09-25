@@ -1,1 +1,1 @@
-# Action-robust-reinforment-learning
+# Two-Player Reinforcement Learning with Langevin Dynamics
