@@ -1,6 +1,6 @@
 # Data Science Final Project -- Robust Journey Planning
 
-Team members: Shengzhao Xia, Yan Fu, Yinan Zhang, Yunbei Huang, Yuting Huang, Zhantao Deng (Ordered by first letter of given name)
+Team members: Shengzhao Xia, Yan Fu, Yinan Zhang, Yunbei Huang, Yu-Ting Huang, Zhantao Deng (Ordered by first letter of given name)
 
 
 ## Note to run the demo
